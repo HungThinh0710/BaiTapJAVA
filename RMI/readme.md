@@ -3,4 +3,4 @@ ATM có 3 chức năng:
  - 2. Rút tiền
  - 3. Kiểm tra số dư
  ==> Được viết bằng Java RMI
-by: Hưng Thịnh
+- by: Hưng Thịnh
